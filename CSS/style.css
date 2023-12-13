@@ -1,0 +1,41 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    color: coral;
+    font-size: 80px;
+}
+.Ziya{
+    color:purple;
+    margin-top:300px;
+    margin-right: 300px;
+    margin-bottom: 300px;
+    margin-left: 300px;
+}
+.Ziya:hover{
+    color: aqua;
+}
+.madina{
+    margin-top: 300px;
+    margin-right: 300px;
+    margin-bottom: 300px;
+    margin-left: 300px;
+}
+.anar{
+    margin-top: 300px;
+    margin-right: 300px;
+    margin-bottom: 300px;
+    margin-left: 300px;
+}
+.mama{
+    margin-top: 300px;
+    margin-right: 300px;
+    margin-bottom: 300px;
+    margin-left: 300px;
+}
+.papa{
+    margin-top: 300px;
+    margin-right: 300px;
+    margin-bottom: 300px;
+    margin-left: 300px;
+}
